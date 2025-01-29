@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safae</h1>
-<h3 align="center">A passionate backend developer from Morocco</h3>
+<h3 align="center">A passionate software engnineering student from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
 
 
